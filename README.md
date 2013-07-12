@@ -1,6 +1,6 @@
 # vagrant-zendframework
 
-A local development environement built using [Vagrant](http://vagrantup.com/) and [Virtualbox](https://www.virtualbox.org/) using puppet and command line provisioning. This will build a local environment for you to start building your own symfony application. 
+A local development environement built using [Vagrant](http://vagrantup.com/) and [Virtualbox](https://www.virtualbox.org/) using puppet and command line provisioning. This will build a local environment for you to start building your own Zend Framework application. 
 
 ## Tools
 
